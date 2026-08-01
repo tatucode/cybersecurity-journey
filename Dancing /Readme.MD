@@ -17,8 +17,8 @@ Very Easy
 
 ## Comandos utilizados
 - nmap -sV <IP>
-- smbclient -L \\<IP>
-- smbclient "\\\\<IP>\\<compartilhamento>"
+- smbclient -L //<IP>
+- smbclient `//<IP>//<compartilhamento`
 
 ## Conceitos estudados
 - Enumeração de serviços
