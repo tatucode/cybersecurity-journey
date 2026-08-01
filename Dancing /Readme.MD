@@ -16,11 +16,9 @@ Very Easy
 - Reforcei a importância da enumeração antes de qualquer tentativa de exploração.
 
 ## Comandos utilizados
-'''bash
-nmap -sV <IP>
-smbclient -L \\<IP>
-smbclient \\\\<IP>\\<compartilhamento>
-'''
+- nmap -sV <IP>
+- smbclient -L \\<IP>
+- smbclient \\<IP>\\<compartilhamento>
 
 ## Conceitos estudados
 - Enumeração de serviços
