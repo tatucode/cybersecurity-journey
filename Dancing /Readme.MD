@@ -1,6 +1,9 @@
 # Dancing
 
 ## Plataforma
+Hack The Box 
+
+## Dificuldade 
 Very Easy
 
 ## Ferramentas
@@ -31,6 +34,9 @@ Very Easy
 - Aplicar o princípio de menor privilégio.
 - Restringir os compartilhamentos desnecessários.
 - Mantes o SMB atualizado e monitorado.
+
+## Tempo de resolução 
+20 minutos 
 
 ## Data
 01-08-2026
