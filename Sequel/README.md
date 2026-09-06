@@ -7,8 +7,8 @@ Hack The Box
 Very Easy
 
 ## Ferramentas 
-Nmap
-MySQL
+- Nmap
+- MySQL
 
 ## Aprendizados
 - Utilizando o Nmap descobri que o `MySQL` roda na porta 3306
