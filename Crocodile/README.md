@@ -40,7 +40,7 @@ Very Easy
 25 minutos
 
 ## Data
-13-09-2026
+12-09-2026
 
 ## Imagens
 <img width="669" height="458" alt="Captura de tela_2026-09-11_21-59-43" src="https://github.com/user-attachments/assets/cc639c3f-23a7-46c7-91e0-8bb87b88bb12" />
